@@ -4,7 +4,7 @@ Zip Project is a sample project that shows MVVM Architecture with SwiftUI
 
 ## Features
 
-- Compress or Unzip files or folders
+- Compress/Unzip files or folders
 
 ## Requirements
 
